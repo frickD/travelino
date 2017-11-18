@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <title>Travelino</title>
+                    <link rel="shortcut icon" href="favicon.ico" />
+                    <meta name="description"
+                        content="Travelino shows to the best places to travel">
+                        
+                        <!-- Bootstrap -->
+                        <link
+                            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+                            rel="stylesheet">
+                            <link href="https://fonts.googleapis.com/css?family=Montserrat"
+                                rel="stylesheet">
+                                <link href="https://fonts.googleapis.com/css?family=Montserrat"
+                                    rel="stylesheet">
+    </head>
+    
+    <!-- Styles -->
+    <link href="css/styles.css" rel="stylesheet">
+        <link href="css/raisbutton.css" rel="stylesheet">
+            <link href="css/loader.css" rel="stylesheet">
+                <link href="css/login.css" rel="stylesheet">
+                    
+                    <body>
+                        <div id="navbarspace">
+                            <nav class='navbar navbar-default'><div class='container'><div class='navbar-header'><button type='button' class='navbar-toggle' data-toggle='collapse'data-target='#myNavbar'><span class='icon-bar'></span> <span class='icon-bar'></span> <span class='icon-bar'></span></button><a class='navbar-brand' href='index.html'>Travelino</a></div><div class='collapse navbar-collapse' id='myNavbar'></div></div></nav>
+                        </div>
+                        
+                        <div id="preloader" style="display:none">
+                            <div id="loader"></div>
+                        </div>
+                        
+                        <div id = "botcontainer" class="container-fluid bg-white text-center" >
+                            
+                            <div class="form">
+                                <img style="width:100px;height:82px;"src="img/Travelino_Icon.gif" alt="chatbotlogo">
+                                    <h3 style="color:#05cdfa">Travelino.</h3>
+                                    <div id="response" style="margin-top:10px">
+                                        <p> Hallo, mein Name ist Travelino, wie kann ich dir helfen?</p>
+                                    </div>
+                                    <div>
+                                        <div class="field-wrap" style="margin-top: 40px">
+                                            <input id="input" required autocomplete="off" />
+                                        </div>
+                                        <button id="savebtn" class="button button-block raise" onClick="sendInputToBot()">
+                                            SEND</button>
+                                    </div>
+                                    
+                                    </div>
+                        </div>
+                        
+                        <div id = "settings" class="container-fluid bg-2 text-center" >
+                            
+                            
+                            <div class="form" id="signup">
+                                <h3 id="login_text" style="color:#05cdfa">Settings.</h2>
+                                    
+                                    <div class="field-wrap" style="margin-top: 40px">
+                                        <label>C4C Tenant<span class="req">*</span>
+                                        </label> <input id="tenant_input" type="text" required autocomplete="off" />
+                                    </div>
+                                    
+                                    <div class="field-wrap" style="margin-top: 40px">
+                                        <label>User<span class="req">*</span>
+                                        </label> <input id="user_input" type="text" required autocomplete="off" />
+                                    </div>
+                                    
+                                    <div class="field-wrap">
+                                        <label>Password<span class="req">*</span>
+                                        </label> <input id="password_input" type="password" required
+                                        autocomplete="off" />
+                                    </div>
+                                    
+                                    <div class="field-wrap" style="margin-top: 40px">
+                                        <label>InternalID<span class="req">*</span>
+                                        </label> <input id="internal_input" type="text" required autocomplete="off" />
+                                    </div>
+                                    </div>
+                            
+                        </div>
+                        
+                        <!-- Party Container -->
+                        
+                        
+                        <!-- Footer -->
+                        <footer class='container-fluid bg-4 text-center'><p>Chatbot4Customer by Daniel Frick. For more information <a href='https://www.github.com'>click here</a></p></footer>
+                            
+                            
+                            
+                            
+                            <!-- Scripts -->
+                            <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+                            <script
+                                src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+                            <script
+                                src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+                            <script type="text/javascript">
+                                /**var preloader = $("#preloader");
+                                
+                                var input = $("#input");
+                                
+                                $(document).keypress(function(e) {
+                                                     if(e.which == 13) {
+                                                     sendInputToBot();
+                                                     }
+                                                     });
+                                                     
+                                                     $(document).ready(function(){
+                                                                       input.focus();
+                                                                       });
+                                                                       
+                                                                       function sendInputToBot() {
+                                                                           
+                                                                           var inputText = input.val();
+                                                                           preloader.fadeIn();
+                                                                           $.ajax({
+                                                                                  method: "POST",
+                                                                                  url: "/GetStartedTomcat/api/input",
+                                                                                  contentType: "application/json",
+                                                                                  data: JSON.stringify({
+                                                                                                       input: inputText
+                                                                                                       })
+                                                                                  }).done(function (data) {
+                                                                                          input.val("");
+                                                                                          input.focus();
+                                                                                          $( "#response" ).empty();
+                                                                                          $("#response").append(data);
+                                                                                          preloader.hide();
+                                                                                          }).fail(function (data) {
+                                                                                                  $("#response").text("Warning! Cloud not conntect to the Backend.");
+                                                                                                  preloader.hide();
+                                                                                                  });
+                                                                       }**/
+                            </script>
+                    </body>
+</html>
+

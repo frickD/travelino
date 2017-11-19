@@ -30,6 +30,11 @@
     <true/>
     <key>NSAppTransportSecurity</key>
     <dict>
+      <key>NSExceptionDomains</key>
+      <dict>
+        <key>www.google.com</key>
+        <dict/>
+      </dict>
       <key>NSAllowsArbitraryLoads</key>
       <true/>
     </dict>

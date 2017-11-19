@@ -74,11 +74,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		OoHuZauMGT5zaLrRQUNlrvbxbj8=
+		ikwdUUxw4vuph9DRxCqnk+aBMPU=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		jHUJ3t1PPq1/roRmSwTeKpM4wV0=
+		VrsO3UOKY3sGCh4nLIQ8wWUmSfk=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		pyNWKO4Ij0t5qGS8r4K1HNtug9s=
+		Z7l41vc3LoqHJnEo1OYco26p69A=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZKMrZGQStP+fPzMYh4nC4RjD94o=
+		yb9jhKe8J7n/5+/QUXiVlD3lk0U=
 		</data>
 		<key>LaunchImage-1100-2436h@3x.png</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		QvpdkZm6317rLIeaRLPvBZGmWbw=
+		bhmLnY6hjz3ec8SgRbl9YknI5+4=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		JOw5vmnNp54LwLHLB+QF8JyssPA=
+		8MqTrdsOlskA3zXR3F//cqsO3h0=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>www/css/index.css</key>
 		<data>
-		Xn5KKnRg99sIQW5z0rf5zJjEDgI=
+		YVxfTNih/+TCBZZY5rh3WGD4GEk=
 		</data>
 		<key>www/css/loader.css</key>
 		<data>
@@ -228,13 +228,45 @@
 		<data>
 		oNphvrwa0w0UBA+PavchlhWXAU0=
 		</data>
+		<key>www/fonts/FontAwesome.otf</key>
+		<data>
+		BIcHvFKsS2VjqqODv+hmCg3ckIw=
+		</data>
+		<key>www/fonts/fontawesome-webfont.eot</key>
+		<data>
+		2YDCzoc9xDr0YNTVctRBMESZ9AA=
+		</data>
+		<key>www/fonts/fontawesome-webfont.svg</key>
+		<data>
+		mKiqXPfWLC7/Xwft6NhEuHTvBu0=
+		</data>
+		<key>www/fonts/fontawesome-webfont.ttf</key>
+		<data>
+		E7HqtlqYPHpzvHmXxHnWaUP3xss=
+		</data>
+		<key>www/fonts/fontawesome-webfont.woff</key>
+		<data>
+		KLeCJAs+dtuCThLAJ1SpcxoWdSc=
+		</data>
+		<key>www/fonts/fontawesome-webfont.woff2</key>
+		<data>
+		1vSMun0Hb7by/Wupk6dbncHsvww=
+		</data>
 		<key>www/img/Travelino_Icon.gif</key>
 		<data>
 		vy5D47rYAO1AXY3J/G0PFrok8Pk=
 		</data>
+		<key>www/img/bastianShot.PNG</key>
+		<data>
+		K5VB7x66/j1NIYN7qx52JXUzBes=
+		</data>
 		<key>www/img/camera.png</key>
 		<data>
 		eyRJVAkWjYsyEV5Y6IUrS8FAwK8=
+		</data>
+		<key>www/img/checkShot.PNG</key>
+		<data>
+		jUJPuXTh+0PnvPl/z9VwnGaE6ZU=
 		</data>
 		<key>www/img/gallery.png</key>
 		<data>
@@ -242,7 +274,11 @@
 		</data>
 		<key>www/img/logo.png</key>
 		<data>
-		MW0GF0+VJyF3L6n2kH6NKUswUL0=
+		vy5D47rYAO1AXY3J/G0PFrok8Pk=
+		</data>
+		<key>www/img/pamelaShot.PNG</key>
+		<data>
+		K730DoKTnLwvTQXYUZePR2GAtf8=
 		</data>
 		<key>www/img/travelino.gif</key>
 		<data>
@@ -250,7 +286,7 @@
 		</data>
 		<key>www/index.html</key>
 		<data>
-		sTi9MxBfA8LiSWaHE6KbMBzNF1k=
+		FZ/45A8fcRFqoVoV2mv3rj+f6UE=
 		</data>
 		<key>www/js/index.js</key>
 		<data>
@@ -466,22 +502,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OoHuZauMGT5zaLrRQUNlrvbxbj8=
+			ikwdUUxw4vuph9DRxCqnk+aBMPU=
 			</data>
 			<key>hash2</key>
 			<data>
-			7SbcAJXdvch1Omx4Qza4vs45lysnP9wZBOAchax5p9g=
+			YJjI0Y1/ktCzXv/HBqCJzREY+G/ngXWn9Td4iuLMo2Y=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jHUJ3t1PPq1/roRmSwTeKpM4wV0=
+			VrsO3UOKY3sGCh4nLIQ8wWUmSfk=
 			</data>
 			<key>hash2</key>
 			<data>
-			VjJu8Emdzpik4LioLB+goQDkNO1KzKod2+J7dJNpCC8=
+			+IEKa+eEY7cbj1tFnLdMWgEhoV/Su+c1BjGq3a1+uHo=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -499,11 +535,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pyNWKO4Ij0t5qGS8r4K1HNtug9s=
+			Z7l41vc3LoqHJnEo1OYco26p69A=
 			</data>
 			<key>hash2</key>
 			<data>
-			GXOLLltTehey4TVLn5FG60JJfKzX3GQ4WDEU/wmq5Fo=
+			Jg7cwxN/GMZ9VPwwpXqLc88TUlQ7jh3TILG4xwfxoCk=
 			</data>
 		</dict>
 		<key>LaunchImage-1100-2436h@3x.png</key>
@@ -697,11 +733,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QvpdkZm6317rLIeaRLPvBZGmWbw=
+			bhmLnY6hjz3ec8SgRbl9YknI5+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			VIbxKaYq6yltkhiOeUgMUvpS9CgfTiqCGuEpS935mrM=
+			pHx2HxRqyHa0oZKjLmigGPxb4Pc4TpCQzFY8ijLHpNY=
 			</data>
 		</dict>
 		<key>archived-expanded-entitlements.xcent</key>
@@ -719,11 +755,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JOw5vmnNp54LwLHLB+QF8JyssPA=
+			8MqTrdsOlskA3zXR3F//cqsO3h0=
 			</data>
 			<key>hash2</key>
 			<data>
-			VcxsnwzYNzNopZhUz2Ty+iJoBlt+DIDSkw278v1K+HU=
+			T6diAJ2WjuRLmECQbhRDc1PPZF6wiL3BphlyqIXbP+w=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
@@ -818,11 +854,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xn5KKnRg99sIQW5z0rf5zJjEDgI=
+			YVxfTNih/+TCBZZY5rh3WGD4GEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			5bg/tLVvOVZjiDi1fEL1Cdhdj8DgKy/4485HSbcgzQc=
+			6lp1gH6yVTuzqHwvCWZN7FBP4PlqLyXzldQvgBFO078=
 			</data>
 		</dict>
 		<key>www/css/loader.css</key>
@@ -869,6 +905,72 @@
 			MpkAMhdJmGuFOMXDKZ54vPa3iI9prlRENZ8rm+WCT2Q=
 			</data>
 		</dict>
+		<key>www/fonts/FontAwesome.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BIcHvFKsS2VjqqODv+hmCg3ckIw=
+			</data>
+			<key>hash2</key>
+			<data>
+			RE3UNmYV/8ShbQErL6kBNwZdPMtBD6b9Xk3de15P/NU=
+			</data>
+		</dict>
+		<key>www/fonts/fontawesome-webfont.eot</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2YDCzoc9xDr0YNTVctRBMESZ9AA=
+			</data>
+			<key>hash2</key>
+			<data>
+			e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=
+			</data>
+		</dict>
+		<key>www/fonts/fontawesome-webfont.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mKiqXPfWLC7/Xwft6NhEuHTvBu0=
+			</data>
+			<key>hash2</key>
+			<data>
+			rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=
+			</data>
+		</dict>
+		<key>www/fonts/fontawesome-webfont.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E7HqtlqYPHpzvHmXxHnWaUP3xss=
+			</data>
+			<key>hash2</key>
+			<data>
+			qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
+			</data>
+		</dict>
+		<key>www/fonts/fontawesome-webfont.woff</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KLeCJAs+dtuCThLAJ1SpcxoWdSc=
+			</data>
+			<key>hash2</key>
+			<data>
+			ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=
+			</data>
+		</dict>
+		<key>www/fonts/fontawesome-webfont.woff2</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1vSMun0Hb7by/Wupk6dbncHsvww=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=
+			</data>
+		</dict>
 		<key>www/img/Travelino_Icon.gif</key>
 		<dict>
 			<key>hash</key>
@@ -880,6 +982,17 @@
 			Cg7Esrx38UrB+C0PgABgqVqD1GKhlMgt6WlC8Qor3Gg=
 			</data>
 		</dict>
+		<key>www/img/bastianShot.PNG</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K5VB7x66/j1NIYN7qx52JXUzBes=
+			</data>
+			<key>hash2</key>
+			<data>
+			mnCd2tG961cFK7lJGcWHPATS3eAV/Y5/k1Kw+3IRMcM=
+			</data>
+		</dict>
 		<key>www/img/camera.png</key>
 		<dict>
 			<key>hash</key>
@@ -889,6 +1002,17 @@
 			<key>hash2</key>
 			<data>
 			NI01oliBMxm7zVoYnXitB1A9dYmBIcVdP/aS9DE3yLE=
+			</data>
+		</dict>
+		<key>www/img/checkShot.PNG</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jUJPuXTh+0PnvPl/z9VwnGaE6ZU=
+			</data>
+			<key>hash2</key>
+			<data>
+			nCzxmtMeKpF1ajRlPIIz6SukvbChWyVeCalOfKh2lwY=
 			</data>
 		</dict>
 		<key>www/img/gallery.png</key>
@@ -906,11 +1030,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MW0GF0+VJyF3L6n2kH6NKUswUL0=
+			vy5D47rYAO1AXY3J/G0PFrok8Pk=
 			</data>
 			<key>hash2</key>
 			<data>
-			8JmHrhEr2x//0WYZDQyLdQyvokuPf/rAP06Yuah4neM=
+			Cg7Esrx38UrB+C0PgABgqVqD1GKhlMgt6WlC8Qor3Gg=
+			</data>
+		</dict>
+		<key>www/img/pamelaShot.PNG</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K730DoKTnLwvTQXYUZePR2GAtf8=
+			</data>
+			<key>hash2</key>
+			<data>
+			9UWZ1CQkFeJYGsy8a3hXmW31ONWnh+XJIz355rqDYTM=
 			</data>
 		</dict>
 		<key>www/img/travelino.gif</key>
@@ -928,11 +1063,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sTi9MxBfA8LiSWaHE6KbMBzNF1k=
+			FZ/45A8fcRFqoVoV2mv3rj+f6UE=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZH6ImG8ahX4AWyPy+sALpB29J5OzI6FqdCFryJ1T5MM=
+			OBi2Oblf5LDcMS2OBCP2rSD9mKQ+jdoRbmhwthPjylY=
 			</data>
 		</dict>
 		<key>www/js/index.js</key>

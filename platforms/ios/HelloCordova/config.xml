@@ -33,6 +33,8 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <allow-navigation href="https://www.google.com/maps/embed/v1/place?key=AIzaSyDwF2C571_X5Xc1sajYIa3yxeYZDT7NNF0*" />
+    <allow-navigation href="https://www.google.com/maps/embed/v1/place?key=AIzaSyDwF2C571_X5Xc1sajYIa3yxeYZDT7NNF0/*" />
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <preference name="AllowInlineMediaPlayback" value="false" />
